@@ -24,8 +24,8 @@ st.sidebar.markdown(
 st.subheader("🎓**FORMATION**")
 
 st.markdown("""
-* 2025 2026 BTS en Geomatique (Formation en cours)
-* 2023 2024  Baccalauréat Série L2 """)
+* 2026 BTS en Geomatique (Formation en cours)
+* 2024  Baccalauréat Série L2 """)
 
 
 st.subheader ("🎯**COMPETENCES**")
