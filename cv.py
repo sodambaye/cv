@@ -59,7 +59,7 @@ st.markdown("""
 * Stage au service cadastral de Louga
 * Participation à des projets cartographiques académiques""")
 
-st.subheader("🚀**PERSPECTIVES**")
+st.subheader("PERSPECTIVES")
 st.markdown("""
 * Approfondir mes compétences en géomatique et en systèmes d'information géographique
 * Me spécialiser en cadastre et aménagement du territoire
