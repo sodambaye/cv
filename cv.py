@@ -21,14 +21,14 @@ st.sidebar.markdown(
     """,
     unsafe_allow_html=True)
 
-st.subheader("🎓**FORMATION**")
+st.subheader("FORMATION")
 
 st.markdown("""
 * 2026 BTS en Geomatique (Formation en cours)
 * 2024  Baccalauréat Série L2 """)
 
 
-st.subheader ("🎯**COMPETENCES**")
+st.subheader ("COMPETENCES")
 st.markdown("""
 * Géo-référencement
 * Notions en Python
@@ -41,7 +41,7 @@ st.markdown("""
 * Pilotage Drone
 * Teledetection """)
 
-st.subheader (" 💻 **Logiciels maîtrisés**")
+st.subheader ("Logiciels maîtrisés")
 st.markdown("""
 * QGIS
 * AutoCAD 
@@ -53,7 +53,7 @@ st.markdown("""
 * PowerPoint
 * PostgreSQL
 """)
-st.subheader (" 💼EXPÉRIENCE  PROFESSIONNELLES")
+st.subheader (" EXPÉRIENCE  PROFESSIONNELLES")
 st.markdown("""
 
 * Stage au service cadastral de Louga
